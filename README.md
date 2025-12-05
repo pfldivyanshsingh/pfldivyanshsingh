@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Web Developer | Python & C++ | HTML, CSS, JavaScript | CSE Major ’29 | Passionate About Building Real-World Solutions<br>As an aspiring Software Engineer and BTech CSE student at Lovely Professional University (Class of 2029), I am passionate about creating impactful solutions through code.<br><br>My core skill set includes Python, HTML, CSS, and a growing proficiency in JavaScript for web development. <br><br>I enjoy tackling real-world problems and have built several projects that showcase my web development skills.<br>I am continuously seeking opportunities to expand my knowledge in full-stack development and to work on projects that make a difference.<br><br>I am always open to connecting with fellow developers, mentors, and innovators. If you're interested in collaborating or discussing tech, feel free to reach out!
+Frontend Web Developer | Python & C++ | HTML, CSS, JavaScript | CSE Major ’29 | Passionate About Building Real-World Solutions<br><br><br><br>As an aspiring Software Engineer and BTech CSE student at Lovely Professional University (Class of 2029), I am passionate about creating impactful solutions through code.<br><br>My core skill set includes Python, HTML, CSS, and a growing proficiency in JavaScript for web development. <br><br>I enjoy tackling real-world problems and have built several projects that showcase my web development skills.<br>I am continuously seeking opportunities to expand my knowledge in full-stack development and to work on projects that make a difference.<br><br>I am always open to connecting with fellow developers, mentors, and innovators. If you're interested in collaborating or discussing tech, feel free to reach out!
 
 
 ## 🌐 Socials:
@@ -12,14 +12,8 @@ Frontend Web Developer | Python & C++ | HTML, CSS, JavaScript | CSE Major ’29 
 ![](https://nirzak-streak-stats.vercel.app/?user=pfldivyanshsingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pfldivyanshsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pfldivyanshsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pfldivyanshsingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pfldivyanshsingh&icon=0&color=0)](https://visitcount.itsvg.in)
