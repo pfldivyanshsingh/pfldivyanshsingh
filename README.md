@@ -1,18 +1,125 @@
-# 💫 About Me:
-Full Stack Web Developer | C++ and MERN Stack | HTML, CSS, JavaScript| Passionate About Building Real-World Solutions<br><br>As an aspiring Software Engineer and BTech CSE student at Lovely Professional University (Class of 2029), I am passionate about creating impactful solutions through code.<br><br>My core skill set includes Python, HTML, CSS, and a growing proficiency in JavaScript for web development. <br><br>I enjoy tackling real-world problems and have built several projects that showcase my web development skills.<br>I am continuously seeking opportunities to expand my knowledge in full-stack development and to work on projects that make a difference.<br><br>I am always open to connecting with fellow developers, mentors, and innovators. If you're interested in collaborating or discussing tech, feel free to reach out!
+# Hi there 👋 I'm Divyansh Singh
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pfldivyanshsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pfldivyanshsingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pfldivyanshsingh@gmail.com) 
+## 🚀 About Me
+- 💻 Passionate Web Developer & Programmer  
+- 🌱 Currently learning Full Stack Development  
+- 🔥 Working on exciting open-source projects  
+- 🎯 Participating in GSSoC & coding challenges  
+- ⚡ Love building real-world projects  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pfldivyanshsingh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pfldivyanshsingh)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfldivyanshsingh@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+## 🧠 Languages
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+</p>
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=pfldivyanshsingh&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=pfldivyanshsingh&theme=default_repocard&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pfldivyanshsingh&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=pfldivyanshsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+# 📈 Contribution Graph
+
+[![Divyansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pfldivyanshsingh&theme=tokyo-night)](https://github.com)
+
+---
+
+# ✨ Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pfldivyanshsingh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pfldivyanshsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<h3 align="center">
+  ⭐ From <a href="https://github.com/pfldivyanshsingh">Divyansh Singh</a>
+</h3>
